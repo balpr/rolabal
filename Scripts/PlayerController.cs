@@ -42,6 +42,7 @@ public class PlayerController : MonoBehaviour
         {
             winTextObject.SetActive(true);
             nameTextObject.SetActive(true);
+            countText.text = "";
         }
     }
 
